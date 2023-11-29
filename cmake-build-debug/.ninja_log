@@ -1,0 +1,7 @@
+# ninja log v5
+12	1131	7229629747976776	CMakeFiles/Contenedores_Din_micos.dir/Ej1_Vector_e_Iteradores.cpp.obj	5357954aba28ed6a
+7	265	7229633858967907	Contenedores_Din_micos.exe	3193ad29dbe1e050
+5	1073	7229629747518451	CMakeFiles/Contenedores_Din_micos.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	d3e704119a347c41
+1	341	7229634308454070	build.ninja	984841f85fb5adb5
+1	1170	7229634372918146	CMakeFiles/Ej2_Contenedores_Estandar_y_Secuencias.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	b196a1ac0df55f22
+1174	1417	7229634375364533	Ej2_Contenedores_Estandar_y_Secuencias.exe	9841d5d2272f39b0
