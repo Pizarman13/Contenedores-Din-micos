@@ -106,6 +106,39 @@ build Ej2_Contenedores_Estandar_y_Secuencias.exe: CXX_EXECUTABLE_LINKER__Ej2_Con
   TARGET_IMPLIB = libEj2_Contenedores_Estandar_y_Secuencias.dll.a
   TARGET_PDB = Ej2_Contenedores_Estandar_y_Secuencias.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Ej3_Algoritmos
+
+
+#############################################
+# Order-only phony target for Ej3_Algoritmos
+
+build cmake_object_order_depends_target_Ej3_Algoritmos: phony || CMakeFiles/Ej3_Algoritmos.dir
+
+build CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj: CXX_COMPILER__Ej3_Algoritmos_unscanned_Debug C$:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/Ej3$ Algoritmos.cpp || cmake_object_order_depends_target_Ej3_Algoritmos
+  DEP_FILE = CMakeFiles\Ej3_Algoritmos.dir\Ej3_Algoritmos.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ej3_Algoritmos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ej3_Algoritmos.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Ej3_Algoritmos
+
+
+#############################################
+# Link the executable Ej3_Algoritmos.exe
+
+build Ej3_Algoritmos.exe: CXX_EXECUTABLE_LINKER__Ej3_Algoritmos_Debug CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Ej3_Algoritmos.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Ej3_Algoritmos.exe
+  TARGET_IMPLIB = libEj3_Algoritmos.dll.a
+  TARGET_PDB = Ej3_Algoritmos.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -136,6 +169,8 @@ build Ej1_Vector_e_Iteradores: phony Ej1_Vector_e_Iteradores.exe
 
 build Ej2_Contenedores_Estandar_y_Secuencias: phony Ej2_Contenedores_Estandar_y_Secuencias.exe
 
+build Ej3_Algoritmos: phony Ej3_Algoritmos.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -144,7 +179,7 @@ build Ej2_Contenedores_Estandar_y_Secuencias: phony Ej2_Contenedores_Estandar_y_
 #############################################
 # Folder: C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug
 
-build all: phony Ej1_Vector_e_Iteradores.exe Ej2_Contenedores_Estandar_y_Secuencias.exe
+build all: phony Ej1_Vector_e_Iteradores.exe Ej2_Contenedores_Estandar_y_Secuencias.exe Ej3_Algoritmos.exe
 
 # =============================================================================
 # Built-in targets

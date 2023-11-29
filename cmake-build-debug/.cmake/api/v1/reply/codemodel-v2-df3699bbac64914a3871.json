@@ -16,7 +16,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -32,7 +33,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -50,6 +52,13 @@
 					"id" : "Ej2_Contenedores_Estandar_y_Secuencias::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Ej2_Contenedores_Estandar_y_Secuencias-Debug-ac009325fbdf28677330.json",
 					"name" : "Ej2_Contenedores_Estandar_y_Secuencias",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej3_Algoritmos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej3_Algoritmos-Debug-4a31fba31b910c6f37a2.json",
+					"name" : "Ej3_Algoritmos",
 					"projectIndex" : 0
 				}
 			]
