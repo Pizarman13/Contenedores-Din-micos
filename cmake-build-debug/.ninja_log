@@ -1,15 +1,11 @@
 # ninja log v5
 12	1131	7229629747976776	CMakeFiles/Contenedores_Din_micos.dir/Ej1_Vector_e_Iteradores.cpp.obj	5357954aba28ed6a
+9	1248	7229641952040367	CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj	9a6a3939008c7ae2
 7	265	7229633858967907	Contenedores_Din_micos.exe	3193ad29dbe1e050
 5	1073	7229629747518451	CMakeFiles/Contenedores_Din_micos.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	d3e704119a347c41
-1	341	7229640188360555	build.ninja	984841f85fb5adb5
-1	1170	7229634372918146	CMakeFiles/Ej2_Contenedores_Estandar_y_Secuencias.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	b196a1ac0df55f22
-1174	1417	7229634375364533	Ej2_Contenedores_Estandar_y_Secuencias.exe	9841d5d2272f39b0
+1	341	7229645001596584	build.ninja	984841f85fb5adb5
 5	1141	7229640737013709	CMakeFiles/Ej2_Contenedores_Estandar_y_Secuencias.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	b196a1ac0df55f22
 1142	1357	7229640739108337	Ej2_Contenedores_Estandar_y_Secuencias.exe	9841d5d2272f39b0
-1	802	7229640793653267	CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj	9a6a3939008c7ae2
-804	987	7229640795487762	Ej3_Algoritmos.exe	1de71ad603e89927
-6	979	7229640945533870	CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj	9a6a3939008c7ae2
-980	1170	7229640947416991	Ej3_Algoritmos.exe	1de71ad603e89927
-9	1248	7229641952040367	CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj	9a6a3939008c7ae2
 1249	1419	7229641953724226	Ej3_Algoritmos.exe	1de71ad603e89927
+1	1282	7229648682794405	CMakeFiles/Ej_4_Calculo_numerico.dir/Ej_4_Calculo_numerico.cpp.obj	9b2bf14202028061
+1283	1479	7229648684707640	Ej_4_Calculo_numerico.exe	fbef7d51740bfcb

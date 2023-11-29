@@ -1,5 +1,6 @@
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej1_Vector_e_Iteradores.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej2_Contenedores_Estandar_y_Secuencias.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej3_Algoritmos.dir
+C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej_4_Calculo_numerico.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -139,6 +139,39 @@ build Ej3_Algoritmos.exe: CXX_EXECUTABLE_LINKER__Ej3_Algoritmos_Debug CMakeFiles
   TARGET_IMPLIB = libEj3_Algoritmos.dll.a
   TARGET_PDB = Ej3_Algoritmos.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Ej_4_Calculo_numerico
+
+
+#############################################
+# Order-only phony target for Ej_4_Calculo_numerico
+
+build cmake_object_order_depends_target_Ej_4_Calculo_numerico: phony || CMakeFiles/Ej_4_Calculo_numerico.dir
+
+build CMakeFiles/Ej_4_Calculo_numerico.dir/Ej_4_Calculo_numerico.cpp.obj: CXX_COMPILER__Ej_4_Calculo_numerico_unscanned_Debug C$:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/Ej$ 4$ Calculo$ numerico.cpp || cmake_object_order_depends_target_Ej_4_Calculo_numerico
+  DEP_FILE = CMakeFiles\Ej_4_Calculo_numerico.dir\Ej_4_Calculo_numerico.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ej_4_Calculo_numerico.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ej_4_Calculo_numerico.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Ej_4_Calculo_numerico
+
+
+#############################################
+# Link the executable Ej_4_Calculo_numerico.exe
+
+build Ej_4_Calculo_numerico.exe: CXX_EXECUTABLE_LINKER__Ej_4_Calculo_numerico_Debug CMakeFiles/Ej_4_Calculo_numerico.dir/Ej_4_Calculo_numerico.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Ej_4_Calculo_numerico.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Ej_4_Calculo_numerico.exe
+  TARGET_IMPLIB = libEj_4_Calculo_numerico.dll.a
+  TARGET_PDB = Ej_4_Calculo_numerico.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -171,6 +204,8 @@ build Ej2_Contenedores_Estandar_y_Secuencias: phony Ej2_Contenedores_Estandar_y_
 
 build Ej3_Algoritmos: phony Ej3_Algoritmos.exe
 
+build Ej_4_Calculo_numerico: phony Ej_4_Calculo_numerico.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -179,7 +214,7 @@ build Ej3_Algoritmos: phony Ej3_Algoritmos.exe
 #############################################
 # Folder: C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug
 
-build all: phony Ej1_Vector_e_Iteradores.exe Ej2_Contenedores_Estandar_y_Secuencias.exe Ej3_Algoritmos.exe
+build all: phony Ej1_Vector_e_Iteradores.exe Ej2_Contenedores_Estandar_y_Secuencias.exe Ej3_Algoritmos.exe Ej_4_Calculo_numerico.exe
 
 # =============================================================================
 # Built-in targets
