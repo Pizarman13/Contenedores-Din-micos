@@ -18,7 +18,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -36,7 +37,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -61,6 +63,13 @@
 					"id" : "Ej3_Algoritmos::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Ej3_Algoritmos-Debug-4a31fba31b910c6f37a2.json",
 					"name" : "Ej3_Algoritmos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej5_C++_Moderno::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej5_C++_Moderno-Debug-814fda26ec3970b771a1.json",
+					"name" : "Ej5_C++_Moderno",
 					"projectIndex" : 0
 				},
 				{

@@ -10,3 +10,5 @@ add_executable(Ej2_Contenedores_Estandar_y_Secuencias "Ej2 Contenedores Estánda
 add_executable(Ej3_Algoritmos "Ej3 Algoritmos.cpp")
 
 add_executable(Ej_4_Calculo_numerico "Ej 4 Calculo numerico.cpp")
+
+add_executable(Ej5_C++_Moderno "Ej5 C++ Moderno.cpp")
