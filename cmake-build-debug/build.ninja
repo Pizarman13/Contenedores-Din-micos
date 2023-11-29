@@ -205,6 +205,39 @@ build Ej5_C++_Moderno.exe: CXX_EXECUTABLE_LINKER__Ej5_C.2b.2b_Moderno_Debug CMak
   TARGET_IMPLIB = libEj5_C++_Moderno.dll.a
   TARGET_PDB = Ej5_C++_Moderno.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Ej6_Introduccion_a_Boost
+
+
+#############################################
+# Order-only phony target for Ej6_Introduccion_a_Boost
+
+build cmake_object_order_depends_target_Ej6_Introduccion_a_Boost: phony || CMakeFiles/Ej6_Introduccion_a_Boost.dir
+
+build CMakeFiles/Ej6_Introduccion_a_Boost.dir/Ej6_Introduccion_a_Boost.cpp.obj: CXX_COMPILER__Ej6_Introduccion_a_Boost_unscanned_Debug C$:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/Ej6$ Introduccion$ a$ Boost.cpp || cmake_object_order_depends_target_Ej6_Introduccion_a_Boost
+  DEP_FILE = CMakeFiles\Ej6_Introduccion_a_Boost.dir\Ej6_Introduccion_a_Boost.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Ej6_Introduccion_a_Boost.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ej6_Introduccion_a_Boost.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Ej6_Introduccion_a_Boost
+
+
+#############################################
+# Link the executable Ej6_Introduccion_a_Boost.exe
+
+build Ej6_Introduccion_a_Boost.exe: CXX_EXECUTABLE_LINKER__Ej6_Introduccion_a_Boost_Debug CMakeFiles/Ej6_Introduccion_a_Boost.dir/Ej6_Introduccion_a_Boost.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Ej6_Introduccion_a_Boost.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Ej6_Introduccion_a_Boost.exe
+  TARGET_IMPLIB = libEj6_Introduccion_a_Boost.dll.a
+  TARGET_PDB = Ej6_Introduccion_a_Boost.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -239,6 +272,8 @@ build Ej3_Algoritmos: phony Ej3_Algoritmos.exe
 
 build Ej5_C++_Moderno: phony Ej5_C++_Moderno.exe
 
+build Ej6_Introduccion_a_Boost: phony Ej6_Introduccion_a_Boost.exe
+
 build Ej_4_Calculo_numerico: phony Ej_4_Calculo_numerico.exe
 
 # =============================================================================
@@ -249,7 +284,7 @@ build Ej_4_Calculo_numerico: phony Ej_4_Calculo_numerico.exe
 #############################################
 # Folder: C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug
 
-build all: phony Ej1_Vector_e_Iteradores.exe Ej2_Contenedores_Estandar_y_Secuencias.exe Ej3_Algoritmos.exe Ej_4_Calculo_numerico.exe Ej5_C++_Moderno.exe
+build all: phony Ej1_Vector_e_Iteradores.exe Ej2_Contenedores_Estandar_y_Secuencias.exe Ej3_Algoritmos.exe Ej_4_Calculo_numerico.exe Ej5_C++_Moderno.exe Ej6_Introduccion_a_Boost.exe
 
 # =============================================================================
 # Built-in targets

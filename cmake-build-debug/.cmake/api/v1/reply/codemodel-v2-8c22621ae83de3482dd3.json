@@ -19,7 +19,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -38,7 +39,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -70,6 +72,13 @@
 					"id" : "Ej5_C++_Moderno::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Ej5_C++_Moderno-Debug-814fda26ec3970b771a1.json",
 					"name" : "Ej5_C++_Moderno",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej6_Introduccion_a_Boost::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej6_Introduccion_a_Boost-Debug-c88a7e6e41f6e6706fc0.json",
+					"name" : "Ej6_Introduccion_a_Boost",
 					"projectIndex" : 0
 				},
 				{

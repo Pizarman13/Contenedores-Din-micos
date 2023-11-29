@@ -3,5 +3,6 @@ C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFi
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej3_Algoritmos.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej_4_Calculo_numerico.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej5_C++_Moderno.dir
+C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/Ej6_Introduccion_a_Boost.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Diego/Documents/GitHub/Contenedores-Din-micos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
