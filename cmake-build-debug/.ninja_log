@@ -1,13 +1,13 @@
 # ninja log v5
-12	1131	7229629747976776	CMakeFiles/Contenedores_Din_micos.dir/Ej1_Vector_e_Iteradores.cpp.obj	5357954aba28ed6a
+1	1282	7229648682794405	CMakeFiles/Ej_4_Calculo_numerico.dir/Ej_4_Calculo_numerico.cpp.obj	9b2bf14202028061
 9	1248	7229641952040367	CMakeFiles/Ej3_Algoritmos.dir/Ej3_Algoritmos.cpp.obj	9a6a3939008c7ae2
 7	265	7229633858967907	Contenedores_Din_micos.exe	3193ad29dbe1e050
-5	1073	7229629747518451	CMakeFiles/Contenedores_Din_micos.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	d3e704119a347c41
-1	341	7229665610863603	build.ninja	984841f85fb5adb5
+1	341	7229921692870139	build.ninja	984841f85fb5adb5
 5	1141	7229640737013709	CMakeFiles/Ej2_Contenedores_Estandar_y_Secuencias.dir/Ej2_Contenedores_Estándar_y_Secuencias.cpp.obj	b196a1ac0df55f22
 1142	1357	7229640739108337	Ej2_Contenedores_Estandar_y_Secuencias.exe	9841d5d2272f39b0
 1249	1419	7229641953724226	Ej3_Algoritmos.exe	1de71ad603e89927
-1	1282	7229648682794405	CMakeFiles/Ej_4_Calculo_numerico.dir/Ej_4_Calculo_numerico.cpp.obj	9b2bf14202028061
 1283	1479	7229648684707640	Ej_4_Calculo_numerico.exe	fbef7d51740bfcb
 0	856	7229652942321564	CMakeFiles/Ej5_C++_Moderno.dir/Ej5_C++_Moderno.cpp.obj	1bb731308910d05d
 858	1027	7229652943979402	Ej5_C++_Moderno.exe	467d525cba90a6d5
+14	2389	7229996789486340	CMakeFiles/Ej5_C++_Moderno.dir/Ej5_C++_Moderno.cpp.obj	1bb731308910d05d
+2392	2808	7229996793683828	Ej5_C++_Moderno.exe	467d525cba90a6d5

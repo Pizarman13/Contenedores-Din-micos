@@ -2,6 +2,18 @@
 	"entries" : 
 	[
 		{
+			"name" : "BOOST_ROOT",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "/C:\\Users\\Diego\\Downloads\\boost_1_83_0"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
